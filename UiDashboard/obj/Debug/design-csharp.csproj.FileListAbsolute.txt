@@ -1,0 +1,9 @@
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\bin\Debug\UiDashboard.exe.config
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\bin\Debug\UiDashboard.exe
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\bin\Debug\UiDashboard.pdb
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\design-csharp.csprojResolveAssemblyReference.cache
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.home.resources
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.Properties.Resources.resources
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\design-csharp.csproj.GenerateResource.Cache
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.exe
+C:\Users\Yoda\Documents\Visual Studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.pdb

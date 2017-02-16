@@ -1,0 +1,9 @@
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\bin\Debug\UiDashboard.exe.config
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.csprojResolveAssemblyReference.cache
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.home.resources
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.Properties.Resources.resources
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.csproj.GenerateResource.Cache
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\bin\Debug\UiDashboard.exe
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\bin\Debug\UiDashboard.pdb
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.exe
+c:\users\yoda\documents\visual studio 2015\Projects\UiDashboard\UiDashboard\obj\Debug\UiDashboard.pdb
